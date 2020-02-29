@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TP4</string>
+
+    <string name="text_bienvenue">Bienvenue</string>
+
+    <string name="prompt_email">Login</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Se connecter</string>
+    <string name="text_creer_cmpt">Creer un nouveau compte</string>
+    <string name="menu_a_propos">A propos</string>
+    <string name="title_activity_google_maps">Map</string>
+    <string name="menu_ajout_etablissement">Ajouter un établissement</string>
+    <string name="menu_supprimer_etablissement">Supprimer un établissement</string>
+    <string name="normal_map">Normal Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <string name="satellite_map">Satellite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+
+</resources>
